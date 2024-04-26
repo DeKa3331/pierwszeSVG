@@ -1,0 +1,12 @@
+<svg height="240" width="500" xmlns="http://www.w3.org/2000/svg">
+		
+<polygon points="100,20 180,60 180,140 100,180 20,140 20,200 " style="fill:#ffff00;stroke:red;stroke_width:20.0"/>
+
+		
+<polygon points="300,97 12,109 48,222 " style="fill:#00ff00;stroke:blue;stroke_width:20.0"/>
+
+		
+<polygon points="200,300 300,200 200,200 300,300 " style="fill:#000000;stroke:gray;stroke_width:20.0"/>
+
+	<ellipse cx="400" cy="100" rx="50.0" ry="30.0" style="fill:yellow;stroke:blue;stroke-width:2"/>
+</svg>
